@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+images/convolve
+images/convolve2
+images/maxpool
